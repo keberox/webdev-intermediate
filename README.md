@@ -1,5 +1,10 @@
 # Basic HTML/CSS/JavaScript/React
 
+## if using Git
+- Create a new branch
+- Add your changes to the new branch
+- Commit and push your branc changes at the end
+
 ## General Rules:
 - You can use React and/or vanilla JavaScript  
 - You can search in Google  
@@ -17,5 +22,4 @@
 - (20 min) Create using JS one of the below:  
   - Counter with a INCREASE and DECREASE button  
   - LIKE button, that when clicked, changes to "You Liked this!"  
-    
     
