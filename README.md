@@ -18,3 +18,4 @@
   - Use image below as an example.  
 
     
+![3 Colunms](3-columns.png "3 Columns")
