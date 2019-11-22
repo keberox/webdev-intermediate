@@ -17,7 +17,9 @@
   - Counter with an INCREASE and DECREASE button  
   - A LIKE button, that when clicked, removes the button and displays "You Liked this!"  
 - #2) Create an HTML Layout with 3 columns  
-  - Use image below as an example.  
+  - Use image below as an example.
+- #3) Update the Styles of index.html
+  - Example: add colors, fonts, margins, borders, etc.
 
     
 ![3 Colunms](3-columns.png "3 Columns")
