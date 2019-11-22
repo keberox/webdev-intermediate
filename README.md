@@ -1,4 +1,4 @@
-# React and HTML/CSS
+# Web Developer Test
 
 ## if using Git
 - Fork this repository
@@ -13,7 +13,7 @@
 - You can ask any questions at any time 
 
 ## Complete the following actions:
-- #1) Using Vanilla JavaScript or React to code ONE of the following components:  
+- #1) Code ONE of the following components/functionality:  
   - Counter with an INCREASE and DECREASE button  
   - A LIKE button, that when clicked, removes the button and displays "You Liked this!"  
 - #2) Create an HTML Layout with 3 columns  
